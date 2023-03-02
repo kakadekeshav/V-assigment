@@ -1,0 +1,139 @@
+body{
+   background-color: darkorange;
+}
+header{
+    
+        overflow: hidden;
+        background-color: white;
+        position: fixed;
+        top: 0;
+        width: 100%;
+        height: max-content;
+    
+      }
+
+.con{
+    padding-top: 110px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    width: 80%;
+    height: auto;
+    margin: auto;
+    padding: auto;
+   background-color:white;
+    }
+    .c1{
+        width: 45%;
+        height: 250px;
+        background-image: url('vectorimg.png');
+        margin-bottom: 20px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        
+    }
+    .c2{
+        width: 45%;
+        height: 250px;
+        background-image: url('vectorimg.png');
+        margin-bottom: 20px;
+        display: flex;
+        flex-direction: column;
+        justify-content:space-between;
+    }
+    .c3{
+        width: 45%;
+        height: 250px;
+        background-image: url('vectorimg.png');
+        margin-bottom: 20px;
+        display: flex;
+        flex-direction:column;
+        justify-content:space-between;
+    }
+    .c4{
+        width: 45%;
+        height: 250px;
+        background-image: url('vectorimg.png');
+        margin-bottom: 20px;
+        display: flex;
+        flex-direction:column;
+        justify-content:space-between;
+    }
+    .c5{
+        width: 45%;
+        height: 250px;
+        background-image: url('vectorimg.png');
+        margin-bottom: 20px;
+        display: flex;
+        flex-direction:column;
+        justify-content:space-between;
+    }
+    .c6{
+        width: 45%;
+        height: 250px;
+        background-image: url('vectorimg.png');
+        margin-bottom: 20px;
+        display: flex;
+        flex-direction:column;
+        justify-content:space-between;
+    }
+    .c7{
+        width: 45%;
+        height: 250px;
+        background-image: url('vectorimg.png');
+        margin-bottom: 20px;
+        display: flex;
+        flex-direction:column;
+        justify-content:space-between;
+    }
+    .logo{
+        width: 15%;
+        margin-top: 10px;
+        margin-right: 10px;
+    }
+    .cont{
+        width: 100%;
+        padding-left: 5px;
+
+    }
+    .logo img{
+        width: 100%;
+        height: 30px;
+    }
+    .top{
+        display: flex;
+        justify-content: space-between;
+    }
+    .cont h1{
+        font-size: 20px;
+        color:darkorange;
+    }
+    .cont p{
+        font-size: 12px;
+        color: rgb(12, 12, 11);
+        text-align: justify;
+    }
+    .mid h2{
+        font-size: 14px;
+        color:darkorange;
+        margin: 1px;
+        padding-left: 5px;
+    }
+    .bottom{
+        display: flex;
+        justify-content: space-between;
+        background-color: coral;
+    }
+    .bottom div{
+        width: 32%;
+        background-color: black;
+        color: white;
+        text-align: center;
+        font-size: 13px;
+    }
+    
+    .bottom div:hover{
+        background-color: darkgoldenrod;
+        color: darkorchid;
+    }
